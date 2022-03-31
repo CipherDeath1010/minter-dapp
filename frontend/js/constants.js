@@ -1,11 +1,11 @@
-const contractAddress = "0xd2E61aC9DE770bb60F92C72BDDac4eDbBF514F5B"; //Replace with your own contract address
+const contractAddress = "0xEED5b33E243e74e77dDeE200F5c721c15005C896"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
-const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_h1 = "Welcome to the Cipher Garden Society minting page";
+const welcome_h2 = "Minting Coming soon";
+const welcome_p = 'Upon examining the Ethereum blockchain, we discovered something unusual. Spores started to grow everywhere at an unexpected rate without any explanation. The Cipher Garden Society entered the unknown and took samples of all the spores for further testing.A sample of the spores would produce a seed that would be planted in the Ethereum Blockchain and grown into a Cipher tree.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
-const h1_presale_mint = "Pre-Sale Minting Open!!";
+const h1_presale_mint = "Pre-Sale Minting Open!";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
