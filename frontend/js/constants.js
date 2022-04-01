@@ -1,4 +1,4 @@
-const contractAddress = "0xd8b72f6B0C45E3836E7731F9622Dfb1c7F710918"; //Replace with your own contract address
+const contractAddress = "0x650ca4d033FE1A028b020f49BBA125FaC91b7e1a"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Cipher Garden Society minting page";
