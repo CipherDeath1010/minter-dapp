@@ -67,7 +67,7 @@ const ROYALTY_SHARE = 500; // Percentage of the token price that goes to the roy
 const ROYALTY_ADDRESS = "0xEED5b33E243e74e77dDeE200F5c721c15005C896"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
-const PRESALE_WHITELISTED_ADDRESSES = ["0xEED5b33E243e74e77dDeE200F5c721c15005C896","0x487Ca86995d6158dAF8d5402b0FCC7d373Bd235f","0x3a126c597dE2dE53D6530656fD5df9650fdb32f0","0x68F403B686ebeceedA2E2b2d3915217ea0E66Ac3","0x1a784fD0eC96448B1164573780ce0bEC9F011181","0x9F71a3D7cF9d4E33307239ba6E1c71f857C0E3F2","0x4dddCC7Ae45c76ae384de8Ef29BD483a998c4f42","0x9B2f7180535073fc21808443b4AED96e9EB552f9"]; // only update if you want to manually set the whitelisted addresses
+const PRESALE_WHITELISTED_ADDRESSES = ["0xEED5b33E243e74e77dDeE200F5c721c15005C896","0x487Ca86995d6158dAF8d5402b0FCC7d373Bd235f","0x3a126c597dE2dE53D6530656fD5df9650fdb32f0","0x68F403B686ebeceedA2E2b2d3915217ea0E66Ac3","0x1a784fD0eC96448B1164573780ce0bEC9F011181","0x9F71a3D7cF9d4E33307239ba6E1c71f857C0E3F2","0x4dddCC7Ae45c76ae384de8Ef29BD483a998c4f42","0x9B2f7180535073fc21808443b4AED96e9EB552f9","0x4d9A24357954E9C034be894fC930E66dd9198161"]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
 let CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS"; // If you want to manually include it
